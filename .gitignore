@@ -1,6 +1,7 @@
-.error
-*.log1
-*.log2
-*.log3
 .error1
+.error2
+.error3
+.log1
+.log2
+.log3
 
